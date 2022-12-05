@@ -1,4 +1,4 @@
-file = open("~/Advent2022/Day2/input.txt", "r")
+file = open("./Day2/input.txt", "r")
 
 data = file.read()
 
